@@ -1,4 +1,4 @@
-$(windows).load( function() {
+$(window).load( function() {
 	
 	alert("hello test");
 });
