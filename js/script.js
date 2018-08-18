@@ -1,1 +1,4 @@
-alert("hello");
+$(windows).load( function() {
+	
+	alert("hello test");
+});
